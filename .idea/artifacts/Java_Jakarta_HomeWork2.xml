@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Java_Jakarta_HomeWork2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Jakarta_HomeWork2</output-path>
+    <root id="root" />
+  </artifact>
+</component>
